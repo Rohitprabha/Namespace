@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\bin\Debug\netcoreapp3.1\Nested_Namespace.exe
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\bin\Debug\netcoreapp3.1\Nested_Namespace.deps.json
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\bin\Debug\netcoreapp3.1\Nested_Namespace.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\bin\Debug\netcoreapp3.1\Nested_Namespace.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\bin\Debug\netcoreapp3.1\Nested_Namespace.dll
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\bin\Debug\netcoreapp3.1\Nested_Namespace.pdb
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\obj\Debug\netcoreapp3.1\Nested_Namespace.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\obj\Debug\netcoreapp3.1\Nested_Namespace.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\obj\Debug\netcoreapp3.1\Nested_Namespace.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\obj\Debug\netcoreapp3.1\Nested_Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\obj\Debug\netcoreapp3.1\Nested_Namespace.dll
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\obj\Debug\netcoreapp3.1\Nested_Namespace.pdb
+C:\Users\Rohit Dasari\source\repos\Nested_Namespace\obj\Debug\netcoreapp3.1\Nested_Namespace.genruntimeconfig.cache
