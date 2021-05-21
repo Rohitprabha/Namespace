@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Namespaces_example/1.0.0": {
+        "dependencies": {
+          "Namespace_Example2": "1.0.0"
+        },
+        "runtime": {
+          "Namespaces_example.dll": {}
+        }
+      },
+      "Namespace_Example2/1.0.0": {
+        "dependencies": {
+          "Project A": "1.0.0",
+          "Project B": "1.0.0"
+        },
+        "runtime": {
+          "Namespace_Example2.dll": {}
+        }
+      },
+      "Project A/1.0.0": {
+        "runtime": {
+          "Project A.dll": {}
+        }
+      },
+      "Project B/1.0.0": {
+        "runtime": {
+          "Project B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespaces_example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Namespace_Example2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

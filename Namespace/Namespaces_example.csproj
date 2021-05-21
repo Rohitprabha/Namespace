@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Namespaces_example.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Namespace_Example2\Namespace_Example2.csproj" />
+    <ProjectReference Include="..\Project A\Project A.csproj" />
+    <ProjectReference Include="..\Project B\Project B.csproj" />
+  </ItemGroup>
+
+</Project>
